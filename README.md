@@ -1,26 +1,28 @@
-# Study Notion - Backend API
+# Study Notion Backend API
 
-This is the backend API for Study Notion (e-learning platform), built using Node.js, Express.js, and MongoDB.
+This is the backend API for an e-learning platform, built using Node.js, Express, and MongoDB.
 
-## 🔗 Live API:
-https://study-notion-backend.onrender.com
+## 🔗 Live URL:
+https://your-render-link.onrender.com
 
 ## 📂 Features:
-- User authentication (JWT)
-- Course creation and enrollment
-- Admin & User roles
-- Secure route protection
+- JWT-based user authentication
+- Course creation & management
+- MongoDB with Mongoose models
+- Role-based access (Admin, User)
+- Error handling with middleware
 
 ## 🛠️ Tech Stack:
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-- Mongoose
-- Dotenv
+Node.js, Express.js, MongoDB, Mongoose, JWT, dotenv
 
-## 🧪 Postman Collection:
-[Link to exported Postman collection]
+## 🧪 API Endpoints:
+- `POST /register`
+- `POST /login`
+- `GET /courses`
+- `POST /courses`
+...
 
+## 📮 Postman Collection:
+[Link to Postman collection]
 
 ## 🚀 How to Run Locally:
