@@ -24,5 +24,6 @@ Node.js, Express.js, MongoDB, Mongoose, JWT, dotenv
 
 ## 📮 Postman Collection:
 [Link to Postman collection]
+https://.postman.co/workspace/My-Workspace~16f89619-2190-45c4-89cc-7c3eef0e4fa6/collection/38589115-f1a4faca-0c95-46eb-a018-75f29ac9244f?action=share&creator=38589115
 
 ## 🚀 How to Run Locally:
